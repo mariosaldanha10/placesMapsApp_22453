@@ -37,7 +37,7 @@ Note:
 - 3. Use Haversine formula to obtain the great-circle distance between two points on a sphere given their longitudes and latitudes. You shall use an inbuilt function if available, given it uses the Haversine formula directly or gives the distance on Earth treating it as a WGS-84 ellipsoid.
 
 
-- References used for this project:
+- References & documentation used for this project:
 - https://www.npmjs.com/package/react-native-maps
 - https://reactnavigation.org/docs/hello-react-navigation
 - https://reactnavigation.org/docs/native-stack-navigator/
