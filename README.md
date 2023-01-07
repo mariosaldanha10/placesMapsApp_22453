@@ -2,7 +2,7 @@
 
 The objective of this project is to develop a mobile app to showcase in map places of literary importance in Ireland and surrounding areas, related to poets, patrons, publishers in Ireland who lived in the 16th and 17th century. The requirements are as follows and all requirements carry equal weightage:
 
-- Display markers on the map [x] 
+- [x] Display markers on the map 
 - Load places and place types JSON data1 [x]  
 - Display marker for all places using GPS coordinates [x]  
 - Use different colours, one for each place type [x] 
