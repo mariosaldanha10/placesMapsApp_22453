@@ -1,5 +1,7 @@
 # placesMapsApp_22453
 
+Mario Santos | Continuous Assessment 1 | ID 22453
+
 The objective of this project is to develop a mobile app to showcase in map places of literary importance in Ireland and surrounding areas, related to poets, patrons, publishers in Ireland who lived in the 16th and 17th century. The requirements are as follows and all requirements carry equal weightage:
 
 - [x] Display markers on the map 
