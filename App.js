@@ -11,7 +11,7 @@ function MyApp() {
     <NavigationContainer>
       <StatusBar style="auto" />
       <Stack.Navigator screenOptions={{headerShown: false}}>
-        <Stack.Screen name="main" component={main} />
+        <Stack.Screen name="main" component={main} /> 
         <Stack.Screen name="details" component={details} />
       </Stack.Navigator>
     </NavigationContainer>
@@ -20,4 +20,4 @@ function MyApp() {
 
 export default MyApp;
 
-//test
+
