@@ -9,17 +9,17 @@ The objective of this project is to develop a mobile app to showcase in map plac
 - [x] When marker is tapped, place name should be displayed on a pop-up info window 
 - [x] Show extended information 
 - [x] When the pop up info window is tapped, show in full screen all details of the place (id, name, Gaelic name, type, GPS coordinates)
-- [-]Show the image of the place loaded from the internet2
+- Show the image of the place loaded from the internet2
 - [Bonus] Show relevant image using any free web service, or search engine []
 - [x] Show a back button, when pressed, go back to map view
-- [-]  Allow filtering by Place Type
-- [-]  Show dropdown for selecting Place Type, default value should be all
-- [-] When a specific Place Type is selected, show only the places with this Place Type on the map
-- [-] Allow custom marker
-- [-] Long Press anywhere on map to show a draggable marker 
-- [-] Show distances to the nearest place (from the downloaded data), and on drag marker, update this info
-- [-] Draw a semi-transparent blue circle around this marker with a radius of 10 km and show number of places within this radius
-- [-] [Bonus] Create a slider to control the above radius in km (1-1000, default 10) and on change, update the circle on the map and update number of places within the radius info shown accordingly
+- Allow filtering by Place Type
+- Show dropdown for selecting Place Type, default value should be all
+- When a specific Place Type is selected, show only the places with this Place Type on the map
+- Allow custom marker
+- Long Press anywhere on map to show a draggable marker 
+- Show distances to the nearest place (from the downloaded data), and on drag marker, update this info
+- Draw a semi-transparent blue circle around this marker with a radius of 10 km and show number of places within this radius
+- [Bonus] Create a slider to control the above radius in km (1-1000, default 10) and on change, update the circle on the map and update number of places within the radius info shown accordingly
 URLs:
 
 - Make GET request on the following URLs (do NOT download and include in source):
