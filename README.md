@@ -52,3 +52,6 @@ Note:
 - https://mapstyle.withgoogle.com/
 - https://github.com/react-navigation/react-navigation/issues/7961
 - https://stackoverflow.com/questions/74544273/the-action-navigate-with-payload-was-not-handled-by-any-navigator
+- https://www.youtube.com/watch?v=AzjWv1X-uyg
+- https://blog.logrocket.com/react-native-maps-introduction/#:~:text=
+- https://www.youtube.com/watch?v=qlELLikT3FU
