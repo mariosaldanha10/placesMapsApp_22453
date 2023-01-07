@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 16,
     width: 260,
-    borderColor: "004048", //colorname: yourpink
+    borderColor: "004048", 
     color: "#320d6d",
     borderWidth: 2,
     padding: 4,

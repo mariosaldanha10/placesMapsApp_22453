@@ -22,7 +22,7 @@ function NavigationBar({ changeState }) {
 
         leading={props => (
           <IconButton icon={props => <Icon name="menu" {...props} />} {...props}
-            onPress={() => { setAppVisibility(!dropdownVisible), setExitAppVisibility(false) }} />
+            onPress={() => { setAppVisibility(!subMenuVisible), setExitAppVisibility(false) }} />
         )}
 
         trailing={props => (
@@ -33,7 +33,7 @@ function NavigationBar({ changeState }) {
           </HStack>
         )}
       />
-      {subMenuVisible ? <Dropdown changeState={changeState} changeVisibilityState={subMenuVisibility} /> : <></>}
+      {subMenuVisible ? <ListMapsPlaces changeState={changeState} changeVisibilityState={subMenuVisibility} /> : <></>}
       {exitAppVisible ? <ExitApp changeState={ExitAppVisibility} /> : <></>}
     </>
   )
