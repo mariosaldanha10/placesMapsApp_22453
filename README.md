@@ -57,3 +57,5 @@ Note:
 - https://www.youtube.com/watch?v=AzjWv1X-uyg
 - https://blog.logrocket.com/react-native-maps-introduction/#:~:text=
 - https://www.youtube.com/watch?v=qlELLikT3FU
+
+note that there is an error handling the changeState variable which is the case of not opening the markers filtering, however I was unable to solve it.
